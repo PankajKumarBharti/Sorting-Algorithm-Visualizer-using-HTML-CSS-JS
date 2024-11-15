@@ -1,11 +1,5 @@
-# Site Link
-https://aaryan-sorting-visualizer.netlify.app/
 
 # Sorting-Visualizer
-
-https://user-images.githubusercontent.com/101854972/159030038-f67f9166-d27e-4056-9dd1-398864803fcb.mp4
-
-
 # Features Added
 ✅ Control Visualization Speed
 
